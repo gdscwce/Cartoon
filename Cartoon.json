@@ -457,6 +457,14 @@
         "MainCharacter": ["Naruto","Sasuke","Hinata"],
         "Creator": "Masashi Kishimoto",
         "Status": "completed"
-}    
+},
+
+{
+  "id": 57,
+  "CartoonName": "kochikame",
+  "MainCharacter": ["Kankichi Ryotsu","Hayato Honda","Neruo Higurashi"],
+  "Creator": "Osamu Akimato",
+  "Status": "completed"
+}
 
 ]
