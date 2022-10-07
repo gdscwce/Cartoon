@@ -672,5 +672,14 @@
         "Creator": "Viacom 18,Cosmos Maya",
         "Status": "ongoing"
 
-    }
+    },
+      {
+        "id": 85,
+        "CartoonName": "Perman",
+        "MainCharacter": [
+            "Mitsuo"
+        ],
+        "Creator": "Fujiko F. Fujio",
+        "Status": "ongoing"
+    },
 ]
