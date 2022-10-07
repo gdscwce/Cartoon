@@ -672,5 +672,12 @@
         "Creator": "Viacom 18,Cosmos Maya",
         "Status": "ongoing"
 
+    },
+    {
+        "id": 82,
+        "CartoonName": "Vikram Aur Munja",
+        "MainCharacter": ["Vikram", "Munja"],
+        "Creator": ["Lallantop Earning Apps", "Big Magic"],
+        "Status": "Completed"
     }
 ]
