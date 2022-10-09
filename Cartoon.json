@@ -679,5 +679,12 @@
         "MainCharacter": ["Kiteretsu"],
         "Creator": ["Fujiko F. Fujio"],
         "Status": "Completed"
+ },
+    {
+        "id":85,
+        "CartoonName": "Masha and the Bear",
+        "MainCharacter": ["Masha","Mishka"],
+        "Creator": ["Oleg Kuzovkov"],
+        "Status": "Completed"
  }
 ]
