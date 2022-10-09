@@ -680,4 +680,11 @@
         "Creator": ["Fujiko F. Fujio"],
         "Status": "Completed"
  }
+    {
+        "id":84,
+        "CartoonName": "Super Robo Monkey Team Hyberforce Go",
+        "MainCharacter": ["Chiro"],
+        "Creator": ["Ciro Nieli"],
+        "Status": "Completed"
+    }
 ]
