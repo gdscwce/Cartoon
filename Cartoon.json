@@ -701,7 +701,6 @@
     },
 
 
- },
  {
     "id":85,
     "CartoonName": "KiD vs KaT",
@@ -710,6 +709,16 @@
     "Status": "Completed"
 
     },
+    {
+        "id":86,
+        "CartoonName": "Dabangg: The Animated Series",
+        "MainCharacter": ["Chulbul Pandey"],
+        "Creator": ["Abhishek Dutta"],
+        "Status": "Completed"
+    
+        },
+    
+    
      {
         "id": 90,
         "CartoonName": "Popeye the Sailor",
