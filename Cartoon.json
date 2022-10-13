@@ -716,6 +716,13 @@
         "MainCharacter": ["Popeye","Brutus"],
         "Creator": "Jack Kinney",
         "Status": "completed"
+    },
+     {
+        "id": 90,
+        "CartoonName": "Horrid Henry",
+        "MainCharacter": ["Henry"],
+        "Creator": "Francesca Simon",
+        "Status": "completed"
     }
 
 
