@@ -701,7 +701,7 @@
     },
 
 
- },
+ 
  {
     "id":85,
     "CartoonName": "KiD vs KaT",
@@ -722,8 +722,18 @@
         "CartoonName": "Rick and Morty",
         "MainCharacter": ["Rick","Morty"],
         "Creator": "Justin Roiland and Dan Harmon",
-        "Status": "Ongoing"
+        "Status": "Ongoing",
         "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
     },
 
+    {
+        "id": 92,
+        "CartoonName": "Winnie-the-Pooh",
+        "MainCharacter": [
+            "Winnie-the-Pooh","tiger","eeyore","Piglet","rabbit","owl","kanga & roo","Christopher Robin"
+        ],
+        "Creator": "A. A. Milne and E. H. Shepard",
+        "Status": "completed"        
+    }
+    
 ]
