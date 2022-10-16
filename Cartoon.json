@@ -43,15 +43,15 @@
         "Creator": "Duncan Rouleau",
         "Status": "ongoing"
     },
-
-    
-   {
-      "id":7,
-      "CartoonName":"Chhota Bheem",
-      "MainCharacter":["bheem, raju, chutki,kaliya","jaggu"],
-      "Creator":"Rajeev Chilaka",
-      "Status":"ongoing"
-
+    {
+        "id": 7,
+        "CartoonName": "Chhota Bheem",
+        "MainCharacter": [
+            "bheem, raju, chutki,kaliya",
+            "jaggu"
+        ],
+        "Creator": "Rajeev Chilaka",
+        "Status": "ongoing"
     },
     {
         "id": 8,
@@ -350,7 +350,6 @@
         "Creator": "Chris Williams",
         "Status": "Completed"
     },
-    
     {
         "id": 42,
         "CartoonName": "Invincible",
@@ -441,30 +440,30 @@
         ],
         "Creator": "Hiroshi Sasagawa",
         "Status": "completed"
-
     },
-    
- 
-
-{
-       "id": 51,
-       "CartoonName": "Timon and Pumbaa",
-       "MainCharacter": ["Timon","Pumbaa","Simba"],
-       "Creator": "Meredith Roberts",
-       "Status": "completed"
-},
-   
-{
-       "id": 52,
-       "CartoonName": "Naruto",
-       "MainCharacter": ["Naruto","Sasuke","Hinata"],
-       "Creator": "Masashi Kishimoto",
-       "Status": "completed"
-},
-   
-
-{
-
+    {
+        "id": 51,
+        "CartoonName": "Timon and Pumbaa",
+        "MainCharacter": [
+            "Timon",
+            "Pumbaa",
+            "Simba"
+        ],
+        "Creator": "Meredith Roberts",
+        "Status": "completed"
+    },
+    {
+        "id": 52,
+        "CartoonName": "Naruto",
+        "MainCharacter": [
+            "Naruto",
+            "Sasuke",
+            "Hinata"
+        ],
+        "Creator": "Masashi Kishimoto",
+        "Status": "completed"
+    },
+    {
         "id": 53,
         "CartoonName": "Powerpuff Girls",
         "MainCharacter": [
@@ -474,27 +473,20 @@
         ],
         "Creator": "Craig McCracken",
         "Status": "completed"
-
     },
-   
-    
-
-{
+    {
         "id": 54,
         "CartoonName": "Scooby-Doo, Where Are You",
-        "MainCharacter": ["Scooby","Shaggy","Velma"],
+        "MainCharacter": [
+            "Scooby",
+            "Shaggy",
+            "Velma"
+        ],
         "Creator": "Joe Ruby",
         "Status": "completed"
-},    
-  
-
-  
-    
-{
-
-
+    },
+    {
         "id": 55,
-
         "CartoonName": "Timon and Pumbaa",
         "MainCharacter": [
             "Timon",
@@ -503,166 +495,221 @@
         ],
         "Creator": "Meredith Roberts",
         "Status": "completed"
-
     },
-  
-
-{
-        "id" : 56,
-        "CartoonName" : "Richie Rich",
-        "MainCharacter" : ["Richie"],
-        "Creator" : "Donald Petrie",
-        "Status" : "Completed"
-
-
-}, 
-
-  {
-      "id":57,
-      "CartoonName":"assassination classroom",
-      "MainCharacter":["koro sensei"],
-      "Creator":"Yusei Matsui",
-      "Status":"completed"
+    {
+        "id": 56,
+        "CartoonName": "Richie Rich",
+        "MainCharacter": [
+            "Richie"
+        ],
+        "Creator": "Donald Petrie",
+        "Status": "Completed"
     },
-      {
+    {
+        "id": 57,
+        "CartoonName": "assassination classroom",
+        "MainCharacter": [
+            "koro sensei"
+        ],
+        "Creator": "Yusei Matsui",
+        "Status": "completed"
+    },
+    {
         "id": 68,
         "CartoonName": "American Dragon: Jake Long",
-        "MainCharacter": ["Jake Long"],
+        "MainCharacter": [
+            "Jake Long"
+        ],
         "Creator": "Jeff Goode",
         "Status": "completed"
-}, 
- {
+    },
+    {
         "id": 69,
         "CartoonName": "Power Rangers S.P.D",
-        "MainCharacter": ["S.P.D. Red Ranger","S.P.D. Blue Ranger","S.P.D. Green Ranger" , "S.P.D. Yellow Ranger" , "S.P.D. Pink Ranger"],
-        "Creator": ["Greg Aronowitz" , "Andrew Merrifield" , "Charlie Haskell" , "Mark Beesley" , "Britta Johnstone" , "Paul Grinder" , "John Laing"],
+        "MainCharacter": [
+            "S.P.D. Red Ranger",
+            "S.P.D. Blue Ranger",
+            "S.P.D. Green Ranger",
+            "S.P.D. Yellow Ranger",
+            "S.P.D. Pink Ranger"
+        ],
+        "Creator": [
+            "Greg Aronowitz",
+            "Andrew Merrifield",
+            "Charlie Haskell",
+            "Mark Beesley",
+            "Britta Johnstone",
+            "Paul Grinder",
+            "John Laing"
+        ],
         "Status": "Completed"
-    } ,
-
-    
-{
+    },
+    {
         "id": 70,
         "CartoonName": "Detective Conan",
-        "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
+        "MainCharacter": [
+            "Shinichi Kudo",
+            "Ran Mouri",
+            "Kogoro Mouri"
+        ],
         "Creator": "Gosho Aoyama",
         "Status": "Ongoing"
-},
-
-{
-          "id": 71,
-          "CartoonName":"Dragon Ball Z",
-          "MainCharacter":["Goku","Vegeta","Gohan","Trunks"],
-          "Creator":"Akira Toriyama",
-          "Status":"completed"
-},
-
-
-
-
+    },
+    {
+        "id": 71,
+        "CartoonName": "Dragon Ball Z",
+        "MainCharacter": [
+            "Goku",
+            "Vegeta",
+            "Gohan",
+            "Trunks"
+        ],
+        "Creator": "Akira Toriyama",
+        "Status": "completed"
+    },
     {
         "id": 72,
         "CartoonName": "Beyblade",
-        "MainCharacter": ["The Bladebreakers"],
+        "MainCharacter": [
+            "The Bladebreakers"
+        ],
         "Creator": "Toshifumi Kawase",
         "Status": "Completed"
-},
-
- {
+    },
+    {
         "id": 73,
         "CartoonName": "Bob The Builder",
-        "MainCharacter": ["Scoop"],
+        "MainCharacter": [
+            "Scoop"
+        ],
         "Creator": "Keith Chapman",
         "Status": "completed"
-
-},
-   {
-      "id":74,
-      "CartoonName":"Avatar:The Legend of Korra",
-      "MainCharacter":"Korra",
-      "Creator":"Joaquim Dos Santos",
-      "Status":"completed"
-      
- },
+    },
+    {
+        "id": 74,
+        "CartoonName": "Avatar:The Legend of Korra",
+        "MainCharacter": "Korra",
+        "Creator": "Joaquim Dos Santos",
+        "Status": "completed"
+    },
     {
         "id": 75,
         "CartoonName": "sofia the first",
-        "MainCharacter": ["sofia the princess"],
+        "MainCharacter": [
+            "sofia the princess"
+        ],
         "Creator": "Craig Gerber",
         "Status": "Ongoing"
-},
-
-     {
+    },
+    {
         "id": 76,
         "CartoonName": "zig and sharko",
-        "MainCharacter": ["zig, sharko"],
+        "MainCharacter": [
+            "zig, sharko"
+        ],
         "Creator": "Olivier Jean-Marie",
         "Status": "Ongoing"
-},
+    },
     {
         "id": 77,
         "CartoonName": "The Adventures of Tintin",
-        "MainCharacter": ["Tintin"],
+        "MainCharacter": [
+            "Tintin"
+        ],
         "Creator": "Hergé",
         "Status": "Completed"
-},
-    { 
+    },
+    {
         "id": 78,
         "CartoonName": "Chacha Bhatija",
-        "MainCharacter": ["Swapnil Kumari","Anil Datt"],
+        "MainCharacter": [
+            "Swapnil Kumari",
+            "Anil Datt"
+        ],
         "Creator": "Diamond Comics",
         "Status": "Ongoing"
- },
-     {
+    },
+    {
         "id": 79,
         "CartoonName": "Courage The Cowardly Dog",
         "MainCharacter": "Muriel Bagge,Eustace Bagge",
         "Creator": "John Dilworth",
         "Status": "completed"
- },
-     {
+    },
+    {
         "id": 80,
         "CartoonName": "Happy Tree Friends",
-        "MainCharacter": ["Flaky", "Nutty", "Giggles", "Cuddles", "Petunia", "Lumpy", "Toothy", "Sniffles", "Russell", "Pop"],
-        "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
+        "MainCharacter": [
+            "Flaky",
+            "Nutty",
+            "Giggles",
+            "Cuddles",
+            "Petunia",
+            "Lumpy",
+            "Toothy",
+            "Sniffles",
+            "Russell",
+            "Pop"
+        ],
+        "Creator": [
+            "Aubrey Ankrum",
+            "Kenn Navarro",
+            "Rhode Montijo"
+        ],
         "Status": "Completed"
- },
+    },
     {
-
         "id": 82,
         "CartoonName": "Scooby-Doo, Where Are You!",
-        "MainCharacter": ["Scooby-Doo","Shaggy Rogers", "Fred Jones", "Velma Dinkley", "Daphne Blake"],
-        "Creator": ["Joseph Barbera", "William Hanna"],
-        "Status": "Completed"
- },
-{
-        "id": 81,
-
-        "CartoonName": "bugs Bunny",
-
         "MainCharacter": [
-
-            "bunny,bugs,granny,daffy duck"
-
+            "Scooby-Doo",
+            "Shaggy Rogers",
+            "Fred Jones",
+            "Velma Dinkley",
+            "Daphne Blake"
         ],
-
+        "Creator": [
+            "Joseph Barbera",
+            "William Hanna"
+        ],
+        "Status": "Completed"
+    },
+    {
+        "id": 81,
+        "CartoonName": "bugs Bunny",
+        "MainCharacter": [
+            "bunny,bugs,granny,daffy duck"
+        ],
         "Creator": "chuck jones",
-
         "Status": "ongoing"
-        },
-        {
+    },
+    {
         "id": 81,
         "CartoonName": "The Powerpuff Girls",
-        "MainCharacter": ["Buttercup", "Bubbles", "Mojo Jojo", "Blossom", "Miss Sara Bellum", "Professor Utonium"],
-        "Creator": ["Craig McCracken"],
-        "Status":"Completed"
-     },
-    {
-        "id":82,
-        "CartoonName": "Johnny Bravo",
-        "MainCharacter": ["Johnny Bravo"],
-        "Creator": ["Van Partible"],
+        "MainCharacter": [
+            "Buttercup",
+            "Bubbles",
+            "Mojo Jojo",
+            "Blossom",
+            "Miss Sara Bellum",
+            "Professor Utonium"
+        ],
+        "Creator": [
+            "Craig McCracken"
+        ],
         "Status": "Completed"
- },
+    },
+    {
+        "id": 82,
+        "CartoonName": "Johnny Bravo",
+        "MainCharacter": [
+            "Johnny Bravo"
+        ],
+        "Creator": [
+            "Van Partible"
+        ],
+        "Status": "Completed"
+    },
     {
         "id": 81,
         "CartoonName": "Shiva",
@@ -671,59 +718,84 @@
         ],
         "Creator": "Viacom 18,Cosmos Maya",
         "Status": "ongoing"
-
     },
     {
-        "id":83,
+        "id": 83,
         "CartoonName": "Kiteretsu",
-        "MainCharacter": ["Kiteretsu"],
-        "Creator": ["Fujiko F. Fujio"],
+        "MainCharacter": [
+            "Kiteretsu"
+        ],
+        "Creator": [
+            "Fujiko F. Fujio"
+        ],
         "Status": "Completed"
-
- },
-   {
-        "id":85,
+    },
+    {
+        "id": 85,
         "CartoonName": "Naruto",
-        "MainCharacter": ["Naruto Uzumaki","Sasuke","Sakura","Kakashi Sensei"],
-        "Creator": ["Masashi Kishimoto"],
+        "MainCharacter": [
+            "Naruto Uzumaki",
+            "Sasuke",
+            "Sakura",
+            "Kakashi Sensei"
+        ],
+        "Creator": [
+            "Masashi Kishimoto"
+        ],
         "Status": "Completed"
- 
-
- },
+    },
     {
         "id": 84,
         "CartoonName": "Future Diary",
         "MainCharacter": [
-            "Yuno Gasai","Yukiteru Amano","Aru Akise"
+            "Yuno Gasai",
+            "Yukiteru Amano",
+            "Aru Akise"
         ],
         "Creator": "Sakae Esuno",
         "Status": "Completed"
     },
-
-
- },
- {
-    "id":85,
-    "CartoonName": "KiD vs KaT",
-    "MainCharacter": ["Cooop"],
-    "Creator": ["Rob Boutilier"],
-    "Status": "Completed"
-
-    },
-     {
-        "id": 90,
-        "CartoonName": "Popeye the Sailor",
-        "MainCharacter": ["Popeye","Brutus"],
-        "Creator": "Jack Kinney",
-        "Status": "completed"
-    },
+},
 {
-        "id": 91,
-        "CartoonName": "Rick and Morty",
-        "MainCharacter": ["Rick","Morty"],
-        "Creator": "Justin Roiland and Dan Harmon",
-        "Status": "Ongoing"
-        "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
-    },
-
+    "id": 85,
+    "CartoonName": "KiD vs KaT",
+    "MainCharacter": [
+        "Cooop"
+    ],
+    "Creator": [
+        "Rob Boutilier"
+    ],
+    "Status": "Completed"
+},
+{
+    "id": 90,
+    "CartoonName": "Popeye the Sailor",
+    "MainCharacter": [
+        "Popeye",
+        "Brutus"
+    ],
+    "Creator": "Jack Kinney",
+    "Status": "completed"
+},
+{
+    "id": 91,
+    "CartoonName": "Rick and Morty",
+    "MainCharacter": [
+        "Rick",
+        "Morty"
+    ],
+    "Creator": "Justin Roiland and Dan Harmon",
+    "Status": "Ongoing""Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"
+},
+{
+    "id": 91,
+    "CartoonName": "Transformers:Prime",
+    "MainCharacter": [
+        "Optimus Prime,Megatron,Starscream,Acree,Cliffjumper,Ultra Magnus,Bumblebee,Airachnid,Wheeljack"
+    ],
+    "Creator": [
+        "Alex Kurtzman,Roberto Orci"
+    ],
+    "Status": "Completed"
+}
 ]
