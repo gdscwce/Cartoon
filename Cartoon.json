@@ -725,5 +725,14 @@
         "Status": "Ongoing"
         "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
     },
+ {
+        "id": 92,
+        "CartoonName": "Little Singham",
+        "MainCharacter": [
+            "Little Singham,Chikki,Hawaldar Karate,Inspector Kavya,Lattu,Babli,Professor Avishkar"
+        ],
+        "Creator": "Rohit Shetty Picturez",
+        "Status": "ongoing"
+    },
 
 ]
