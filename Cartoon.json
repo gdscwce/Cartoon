@@ -725,5 +725,12 @@
         "Status": "Ongoing"
         "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
     },
+     {
+        "id": 6,
+        "CartoonName": "Ben 10",
+        "MainCharacter": "Ben, Gwen, Grandpa Max",
+        "Creator": "Duncan Rouleau",
+        "Status": "ongoing"
+    }
 
 ]
