@@ -725,5 +725,13 @@
         "Status": "Ongoing"
         "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
     },
+ {
+        "id": 92,
+        "CartoonName": "The Rising of the Shield Hero",
+        "MainCharacter": ["Naofumi Iwatani","Raphtalia"],
+        "Creator": "Aneko Yusagi",
+        "Status": "Ongoing",
+        "Where to watch": "https://9anime.gs/?1"
+    }, 
 
 ]
