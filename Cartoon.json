@@ -673,6 +673,16 @@
         "Status": "ongoing"
 
     },
+
+      {
+        "id": 85,
+        "CartoonName": "Perman",
+        "MainCharacter": [
+            "Mitsuo"
+        ],
+        "Creator": "Fujiko F. Fujio",
+        "Status": "ongoing"
+    },
     {
         "id":83,
         "CartoonName": "Kiteretsu",
@@ -725,5 +735,4 @@
         "Status": "Ongoing"
         "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
     },
-
 ]
