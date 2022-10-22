@@ -718,12 +718,12 @@
         "Status": "completed"
     },
 {
-        "id": 91,
-        "CartoonName": "Rick and Morty",
-        "MainCharacter": ["Rick","Morty"],
-        "Creator": "Justin Roiland and Dan Harmon",
-        "Status": "Ongoing"
-        "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
+        "id": 93,
+        "CartoonName": "Mighty Raju",
+        "MainCharacter": ["Raju","Chota bheem"],
+        "Creator": "Rajiv Chilaka",
+        "Status": "Completed"
+        "Where to watch": "www.netflix.com/title/81450321"  
     },
 
 ]
