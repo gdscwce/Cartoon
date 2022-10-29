@@ -1,737 +1,653 @@
 [
-    {
-        "id": 1,
-        "CartoonName": "Doraemon",
-        "MainCharacter": [
-            "Doraemon,Nobita,Shizuka,Gian,Suneo"
-        ],
-        "Creator": "Fujiko F. Fujiyo",
-        "Status": "ongoing"
-    },
-    {
-        "id": 2,
-        "CartoonName": "Shinchan",
-        "MainCharacter": "Shinchan,Nohara Family,Kasukabe Defence Group",
-        "Creator": "Yoshito Usui",
-        "Status": "ongoing"
-    },
-    {
-        "id": 3,
-        "CartoonName": "Ninja hattori",
-        "MainCharacter": "Ninja hattori,Shinzo hattori,Shishimaru,Kenichi mitsuba",
-        "Creator": "Fujiko Fujio",
-        "Status": "completed"
-    },
-    {
-        "id": 4,
-        "CartoonName": "Dora the Explorer",
-        "MainCharacter": "Dora, Boots the Monkey, Swiper the Fox",
-        "Creator": "Chris Gifford",
-        "Status": "ongoing"
-    },
-    {
-        "id": 5,
-        "CartoonName": "Mr Bean",
-        "MainCharacter": "Mr Bean , Teddy",
-        "Creator": "Rowan Atkinson and Richard Curtis",
-        "Status": "ongoing"
-    },
-    {
-        "id": 6,
-        "CartoonName": "Ben 10",
-        "MainCharacter": "Ben, Gwen, Grandpa Max",
-        "Creator": "Duncan Rouleau",
-        "Status": "ongoing"
-    },
-
-    
-   {
-      "id":7,
-      "CartoonName":"Chhota Bheem",
-      "MainCharacter":["bheem, raju, chutki,kaliya","jaggu"],
-      "Creator":"Rajeev Chilaka",
-      "Status":"ongoing"
-
-    },
-    {
-        "id": 8,
-        "CartoonName": "Tom And Jerry",
-        "MainCharacter": "Tom,Jerry",
-        "Creator": "William Hanna,Joseph Barbera",
-        "Status": "Ongoing"
-    },
-    {
-        "id": 9,
-        "CartoonName": "Phineas and Ferb",
-        "MainCharacter": [
-            "Phineas ,Ferb ,Dr. Heinz Doofenshmirtz., Perry the Platypus"
-        ],
-        "Creator": " Dan Povenmire and Jeff ",
-        "Status": "upcoming with 2021new series"
-    },
-    {
-        "id": 10,
-        "CartoonName": "Oggy and the Cockroaches",
-        "MainCharacter": [
-            "Oggy",
-            "Jack"
-        ],
-        "Creator": "Jean-Yves Stephane Marcel Raimbaud",
-        "Status": "ongoing"
-    },
-    {
-        "id": 11,
-        "CartoonName": "Roll No 21",
-        "MainCharacter": [
-            "Krish and Kanishk"
-        ],
-        "Creator": "Avinash Aanand Kaushik Chawla",
-        "Status": "ongoing"
-    },
-    {
-        "id": 12,
-        "CartoonName": "Mighty-Raju",
-        "MainCharacter": [
-            "Raju"
-        ],
-        "Creator": "Radhakrishnan Sonam Shekhawat",
-        "Status": "ongoing"
-    },
-    {
-        "id": 13,
-        "CartoonName": "Motu Patlu",
-        "MainCharacter": "Motu Patlu",
-        "Creator": "Niraj Vikram",
-        "Status": "Ongoing"
-    },
-    {
-        "id": 14,
-        "CartoonName": "Courage The Cowardly Dog",
-        "MainCharacter": "Muriel Bagge,Eustace Bagge",
-        "Creator": "John Dilworth",
-        "Status": "completed"
-    },
-    {
-        "id": 15,
-        "CartoonName": "Oswald",
-        "MainCharacter": [
-            "Oswald,Egbert"
-        ],
-        "Creator": "Dan Yaccarino",
-        "Status": "Ongoing"
-    },
-    {
-        "id": 16,
-        "CartoonName": "Shaun the sheep",
-        "MainCharacter": [
-            "Shaun,Bitzer,Farmer"
-        ],
-        "Creator": "Nick Park",
-        "Status": "ongoing"
-    },
-    {
-        "id": 17,
-        "CartoonName": "Kick Buttowski",
-        "MainCharacter": [
-            "Kick(Clarence),Gunther,Brad"
-        ],
-        "Creator": "Sandro Corsaro",
-        "Status": "re launching"
-    },
-    {
-        "id": 18,
-        "CartoonName": "Perman",
-        "MainCharacter": [
-            "Mitsuo"
-        ],
-        "Creator": "Fujiko F. Fujio",
-        "Status": "ongoing"
-    },
-    {
-        "id": 19,
-        "CartoonName": "Johnny Test",
-        "MainCharacter": [
-            "Johnny,Dukey"
-        ],
-        "Creator": "Scott Fellows",
-        "Status": "Completed"
-    },
-    {
-        "id": 20,
-        "CartoonName": "Dizzy Dishes",
-        "MainCharacter": [
-            "Margie Hines,Billy Murray"
-        ],
-        "Creator": "Max Fleischer",
-        "Status": "Ongoing"
-    },
-    {
-        "id": 21,
-        "CartoonName": "bablu",
-        "MainCharacter": "Bablu,Dablu",
-        "Creator": "Liu Fuyuan",
-        "Status": "ongoing"
-    },
-    {
-        "id": 22,
-        "CartoonName": "Pink Panther",
-        "MainCharacter": [
-            "Pink Panther"
-        ],
-        "Creator": "Blake Edwards",
-        "Status": "Completed"
-    },
-    {
-        "id": 23,
-        "CartoonName": "slugtera",
-        "MainCharacter": [
-            "Eli sahne"
-        ],
-        "Creator": "asaph fipke",
-        "Status": "Completed"
-    },
-    {
-        "id": 24,
-        "CartoonName": "Mickey Mouse ClubHouse",
-        "MainCharacter": [
-            "Mickey Mouse"
-        ],
-        "Creator": "Roberts Gannaway",
-        "Status": "Completed"
-    },
-    {
-        "id": 25,
-        "CartoonName": "Mickey Mouse",
-        "MainCharacter": [
-            "Mickey"
-        ],
-        "Creator": "Walt Disney",
-        "Status": "Contract Over"
-    },
-    {
-        "id": 26,
-        "CartoonName": "Pokemon",
-        "MainCharacter": [
-            "Ash,Pikachu"
-        ],
-        "Creator": "Satoshi Tajiri",
-        "Status": "ongoing"
-    },
-    {
-        "id": 27,
-        "CartoonName": "spongebob squarepants",
-        "MainCharacter": [
-            ",patrick"
-        ],
-        "Creator": "Stephen Hillenburg",
-        "Status": "ongoing"
-    },
-    {
-        "id": 28,
-        "CartoonName": "kitretsu",
-        "MainCharacter": [
-            "kitretsu,corosuke"
-        ],
-        "Creator": "Liu",
-        "Status": "ended"
-    },
-    {
-        "id": 29,
-        "CartoonName": "Super stricker",
-        "MainCharacter": [
-            "shakes"
-        ],
-        "Creator": "Jurgen Ulf Gutentag",
-        "Status": "Completed"
-    },
-    {
-        "id": 30,
-        "CartoonName": "Barbie",
-        "MainCharacter": [
-            "Elina"
-        ],
-        "Creator": "Shinbo Naruma",
-        "Status": "Completed"
-    },
-    {
-        "id": 31,
-        "CartoonName": "The Ren & Stimpy Show",
-        "MainCharacter": [
-            "Ren Hoek"
-        ],
-        "Creator": "John Kricfalusi",
-        "Status": "Completed"
-    },
-    {
-        "id": 32,
-        "CartoonName": "bunty bubbly",
-        "MainCharacter": [
-            "Bunty , Bubbly"
-        ],
-        "Creator": "Stephane Marcel Raimbaud",
-        "Status": "Finished"
-    },
-    {
-        "id": 33,
-        "CartoonName": "Garfield",
-        "MainCharacter": [
-            "Garfield"
-        ],
-        "Creator": "Jim Davis",
-        "Status": "Completed"
-    },
-    {
-        "id": 34,
-        "CartoonName": "bandbook budbak",
-        "MainCharacter": [
-            "bandbook, budbak"
-        ],
-        "Creator": "Aashish Mall",
-        "Status": "Ongoing"
-    },
-    {
-        "id": 35,
-        "CartoonName": "Horrid Henry",
-        "MainCharacter": [
-            "Henry,Peter,Margot"
-        ],
-        "Creator": "Francesca Simon",
-        "Status": "ongoing"
-    },
-    {
-        "id": 36,
-        "CartoonName": "bablu",
-        "MainCharacter": "Bablu,Dablu",
-        "Creator": "Liu Fuyuan",
-        "Status": "ongoing"
-    },
-    {
-        "id": 37,
-        "CartoonName": "Haddi mera buddi",
-        "MainCharacter": [
-            "Haddi"
-        ],
-        "Creator": "Billy and Mandy",
-        "Status": "ongoing"
-    },
-    {
-        "id": 38,
-        "CartoonName": "Adventure Time ",
-        "MainCharacter": [
-            "Finn"
-        ],
-        "Creator": "Pendleton Ward",
-        "Status": "Stopped"
-    },
-    {
-        "id": 39,
-        "CartoonName": "Simba",
-        "MainCharacter": [
-            "Simba"
-        ],
-        "Creator": "Irene Mecchi, Jonathan Roberts and Linda Woolverton",
-        "Status": "Completed"
-    },
-    {
-        "id": 40,
-        "CartoonName": "Popeye- The Sailor Man",
-        "MainCharacter": [
-            "Popeye"
-        ],
-        "Creator": "E. C. Segar",
-        "Status": "ongoing"
-    },
-    {
-        "id": 41,
-        "CartoonName": "hero",
-        "MainCharacter": [
-            "hero"
-        ],
-        "Creator": "Chris Williams",
-        "Status": "Completed"
-    },
-    
-    {
-        "id": 42,
-        "CartoonName": "Invincible",
-        "MainCharacter": [
-            "Mark Grayson"
-        ],
-        "Creator": " Robert Kirkman, Cory Walker, and Ryan Ottley",
-        "Status": "completed"
-    },
-    {
-        "id": 43,
-        "CartoonName": "Jackie Chan",
-        "MainCharacter": "Jackie",
-        "Creator": "Jean-Yves msrcel raimbbaud",
-        "Status": "Married"
-    },
-    {
-        "id": 44,
-        "CartoonName": "Teenage Mutant Ninja Turtles",
-        "MainCharacter": [
-            "Krang",
-            "Donatello",
-            "Super Shredder",
-            "Michelangelo"
-        ],
-        "Creator": [
-            "Ciro Nieli",
-            "Joshua Sternin"
-        ],
-        "Status": "Completed"
-    },
-    {
-        "id": 45,
-        "CartoonName": "Hagemaru",
-        "MainCharacter": [
-            "Hagemaru"
-        ],
-        "Creator": "Shinbo Naruma",
-        "Status": "Completed"
-    },
-    {
-        "id": 46,
-        "CartoonName": "Selfie with bajrangi",
-        "MainCharacter": [
-            "Ankush,Bajrangi"
-        ],
-        "Creator": "Dheeraj Berry",
-        "Status": "Completed"
-    },
-    {
-        "id": 47,
-        "CartoonName": "Johnny Bravo",
-        "MainCharacter": [
-            "Johnny Bravo"
-        ],
-        "Creator": "Van Partible",
-        "Status": "Completed"
-    },
-    {
-        "id": 48,
-        "CartoonName": "Peppa Pig",
-        "MainCharacter": [
-            "Peppa Pig"
-        ],
-        "Creator": [
-            "Neville Astley",
-            "Mark Baker"
-        ],
-        "Status": "Ongoing"
-    },
-    {
-        "id": 49,
-        "CartoonName": "Tsugumomo",
-        "MainCharacter": [
-            "Kazuya"
-        ],
-        "Creator": [
-            "Sara Winderheft",
-            "Fallecia Angelle"
-        ],
-        "Status": "Ongoing"
-    },
-    {
-        "id": 50,
-        "CartoonName": "Oraa Guzura Dado",
-        "MainCharacter": [
-            "Guzaara"
-        ],
-        "Creator": "Hiroshi Sasagawa",
-        "Status": "completed"
-
-    },
-    
- 
-
-{
-       "id": 51,
-       "CartoonName": "Timon and Pumbaa",
-       "MainCharacter": ["Timon","Pumbaa","Simba"],
-       "Creator": "Meredith Roberts",
-       "Status": "completed"
-},
-   
-{
-       "id": 52,
-       "CartoonName": "Naruto",
-       "MainCharacter": ["Naruto","Sasuke","Hinata"],
-       "Creator": "Masashi Kishimoto",
-       "Status": "completed"
-},
-   
-
-{
-
-        "id": 53,
-        "CartoonName": "Powerpuff Girls",
-        "MainCharacter": [
-            "Buttercup",
-            "Blossom",
-            "Bubbles"
-        ],
-        "Creator": "Craig McCracken",
-        "Status": "completed"
-
-    },
-   
-    
-
-{
-        "id": 54,
-        "CartoonName": "Scooby-Doo, Where Are You",
-        "MainCharacter": ["Scooby","Shaggy","Velma"],
-        "Creator": "Joe Ruby",
-        "Status": "completed"
-},    
-  
-
-  
-    
-{
-
-
-        "id": 55,
-
-        "CartoonName": "Timon and Pumbaa",
-        "MainCharacter": [
-            "Timon",
-            "Pumbaa",
-            "Simba"
-        ],
-        "Creator": "Meredith Roberts",
-        "Status": "completed"
-
-    },
-  
-
-{
-        "id" : 56,
-        "CartoonName" : "Richie Rich",
-        "MainCharacter" : ["Richie"],
-        "Creator" : "Donald Petrie",
-        "Status" : "Completed"
-
-
-}, 
+  {
+    "id": 1,
+    "CartoonName": "Doraemon",
+    "MainCharacter": ["Doraemon,Nobita,Shizuka,Gian,Suneo"],
+    "Creator": "Fujiko F. Fujiyo",
+    "Status": "ongoing"
+  },
+  {
+    "id": 2,
+    "CartoonName": "Shinchan",
+    "MainCharacter": "Shinchan,Nohara Family,Kasukabe Defence Group",
+    "Creator": "Yoshito Usui",
+    "Status": "ongoing"
+  },
+  {
+    "id": 3,
+    "CartoonName": "Ninja hattori",
+    "MainCharacter": "Ninja hattori,Shinzo hattori,Shishimaru,Kenichi mitsuba",
+    "Creator": "Fujiko Fujio",
+    "Status": "completed"
+  },
+  {
+    "id": 4,
+    "CartoonName": "Dora the Explorer",
+    "MainCharacter": "Dora, Boots the Monkey, Swiper the Fox",
+    "Creator": "Chris Gifford",
+    "Status": "ongoing"
+  },
+  {
+    "id": 5,
+    "CartoonName": "Mr Bean",
+    "MainCharacter": "Mr Bean , Teddy",
+    "Creator": "Rowan Atkinson and Richard Curtis",
+    "Status": "ongoing"
+  },
+  {
+    "id": 6,
+    "CartoonName": "Ben 10",
+    "MainCharacter": "Ben, Gwen, Grandpa Max",
+    "Creator": "Duncan Rouleau",
+    "Status": "ongoing"
+  },
 
   {
-      "id":57,
-      "CartoonName":"assassination classroom",
-      "MainCharacter":["koro sensei"],
-      "Creator":"Yusei Matsui",
-      "Status":"completed"
-    },
-      {
-        "id": 68,
-        "CartoonName": "American Dragon: Jake Long",
-        "MainCharacter": ["Jake Long"],
-        "Creator": "Jeff Goode",
-        "Status": "completed"
-}, 
- {
-        "id": 69,
-        "CartoonName": "Power Rangers S.P.D",
-        "MainCharacter": ["S.P.D. Red Ranger","S.P.D. Blue Ranger","S.P.D. Green Ranger" , "S.P.D. Yellow Ranger" , "S.P.D. Pink Ranger"],
-        "Creator": ["Greg Aronowitz" , "Andrew Merrifield" , "Charlie Haskell" , "Mark Beesley" , "Britta Johnstone" , "Paul Grinder" , "John Laing"],
-        "Status": "Completed"
-    } ,
+    "id": 7,
+    "CartoonName": "Chhota Bheem",
+    "MainCharacter": ["bheem, raju, chutki,kaliya", "jaggu"],
+    "Creator": "Rajeev Chilaka",
+    "Status": "ongoing"
+  },
+  {
+    "id": 8,
+    "CartoonName": "Tom And Jerry",
+    "MainCharacter": "Tom,Jerry",
+    "Creator": "William Hanna,Joseph Barbera",
+    "Status": "Ongoing"
+  },
+  {
+    "id": 9,
+    "CartoonName": "Phineas and Ferb",
+    "MainCharacter": [
+      "Phineas ,Ferb ,Dr. Heinz Doofenshmirtz., Perry the Platypus"
+    ],
+    "Creator": " Dan Povenmire and Jeff ",
+    "Status": "upcoming with 2021new series"
+  },
+  {
+    "id": 10,
+    "CartoonName": "Oggy and the Cockroaches",
+    "MainCharacter": ["Oggy", "Jack"],
+    "Creator": "Jean-Yves Stephane Marcel Raimbaud",
+    "Status": "ongoing"
+  },
+  {
+    "id": 11,
+    "CartoonName": "Roll No 21",
+    "MainCharacter": ["Krish and Kanishk"],
+    "Creator": "Avinash Aanand Kaushik Chawla",
+    "Status": "ongoing"
+  },
+  {
+    "id": 12,
+    "CartoonName": "Mighty-Raju",
+    "MainCharacter": ["Raju"],
+    "Creator": "Radhakrishnan Sonam Shekhawat",
+    "Status": "ongoing"
+  },
+  {
+    "id": 13,
+    "CartoonName": "Motu Patlu",
+    "MainCharacter": "Motu Patlu",
+    "Creator": "Niraj Vikram",
+    "Status": "Ongoing"
+  },
+  {
+    "id": 14,
+    "CartoonName": "Courage The Cowardly Dog",
+    "MainCharacter": "Muriel Bagge,Eustace Bagge",
+    "Creator": "John Dilworth",
+    "Status": "completed"
+  },
+  {
+    "id": 15,
+    "CartoonName": "Oswald",
+    "MainCharacter": ["Oswald,Egbert"],
+    "Creator": "Dan Yaccarino",
+    "Status": "Ongoing"
+  },
+  {
+    "id": 16,
+    "CartoonName": "Shaun the sheep",
+    "MainCharacter": ["Shaun,Bitzer,Farmer"],
+    "Creator": "Nick Park",
+    "Status": "ongoing"
+  },
+  {
+    "id": 17,
+    "CartoonName": "Kick Buttowski",
+    "MainCharacter": ["Kick(Clarence),Gunther,Brad"],
+    "Creator": "Sandro Corsaro",
+    "Status": "re launching"
+  },
+  {
+    "id": 18,
+    "CartoonName": "Perman",
+    "MainCharacter": ["Mitsuo"],
+    "Creator": "Fujiko F. Fujio",
+    "Status": "ongoing"
+  },
+  {
+    "id": 19,
+    "CartoonName": "Johnny Test",
+    "MainCharacter": ["Johnny,Dukey"],
+    "Creator": "Scott Fellows",
+    "Status": "Completed"
+  },
+  {
+    "id": 20,
+    "CartoonName": "Dizzy Dishes",
+    "MainCharacter": ["Margie Hines,Billy Murray"],
+    "Creator": "Max Fleischer",
+    "Status": "Ongoing"
+  },
+  {
+    "id": 21,
+    "CartoonName": "bablu",
+    "MainCharacter": "Bablu,Dablu",
+    "Creator": "Liu Fuyuan",
+    "Status": "ongoing"
+  },
+  {
+    "id": 22,
+    "CartoonName": "Pink Panther",
+    "MainCharacter": ["Pink Panther"],
+    "Creator": "Blake Edwards",
+    "Status": "Completed"
+  },
+  {
+    "id": 23,
+    "CartoonName": "slugtera",
+    "MainCharacter": ["Eli sahne"],
+    "Creator": "asaph fipke",
+    "Status": "Completed"
+  },
+  {
+    "id": 24,
+    "CartoonName": "Mickey Mouse ClubHouse",
+    "MainCharacter": ["Mickey Mouse"],
+    "Creator": "Roberts Gannaway",
+    "Status": "Completed"
+  },
+  {
+    "id": 25,
+    "CartoonName": "Mickey Mouse",
+    "MainCharacter": ["Mickey"],
+    "Creator": "Walt Disney",
+    "Status": "Contract Over"
+  },
+  {
+    "id": 26,
+    "CartoonName": "Pokemon",
+    "MainCharacter": ["Ash,Pikachu"],
+    "Creator": "Satoshi Tajiri",
+    "Status": "ongoing"
+  },
+  {
+    "id": 27,
+    "CartoonName": "spongebob squarepants",
+    "MainCharacter": [",patrick"],
+    "Creator": "Stephen Hillenburg",
+    "Status": "ongoing"
+  },
+  {
+    "id": 28,
+    "CartoonName": "kitretsu",
+    "MainCharacter": ["kitretsu,corosuke"],
+    "Creator": "Liu",
+    "Status": "ended"
+  },
+  {
+    "id": 29,
+    "CartoonName": "Super stricker",
+    "MainCharacter": ["shakes"],
+    "Creator": "Jurgen Ulf Gutentag",
+    "Status": "Completed"
+  },
+  {
+    "id": 30,
+    "CartoonName": "Barbie",
+    "MainCharacter": ["Elina"],
+    "Creator": "Shinbo Naruma",
+    "Status": "Completed"
+  },
+  {
+    "id": 31,
+    "CartoonName": "The Ren & Stimpy Show",
+    "MainCharacter": ["Ren Hoek"],
+    "Creator": "John Kricfalusi",
+    "Status": "Completed"
+  },
+  {
+    "id": 32,
+    "CartoonName": "bunty bubbly",
+    "MainCharacter": ["Bunty , Bubbly"],
+    "Creator": "Stephane Marcel Raimbaud",
+    "Status": "Finished"
+  },
+  {
+    "id": 33,
+    "CartoonName": "Garfield",
+    "MainCharacter": ["Garfield"],
+    "Creator": "Jim Davis",
+    "Status": "Completed"
+  },
+  {
+    "id": 34,
+    "CartoonName": "bandbook budbak",
+    "MainCharacter": ["bandbook, budbak"],
+    "Creator": "Aashish Mall",
+    "Status": "Ongoing"
+  },
+  {
+    "id": 35,
+    "CartoonName": "Horrid Henry",
+    "MainCharacter": ["Henry,Peter,Margot"],
+    "Creator": "Francesca Simon",
+    "Status": "ongoing"
+  },
+  {
+    "id": 36,
+    "CartoonName": "bablu",
+    "MainCharacter": "Bablu,Dablu",
+    "Creator": "Liu Fuyuan",
+    "Status": "ongoing"
+  },
+  {
+    "id": 37,
+    "CartoonName": "Haddi mera buddi",
+    "MainCharacter": ["Haddi"],
+    "Creator": "Billy and Mandy",
+    "Status": "ongoing"
+  },
+  {
+    "id": 38,
+    "CartoonName": "Adventure Time ",
+    "MainCharacter": ["Finn"],
+    "Creator": "Pendleton Ward",
+    "Status": "Stopped"
+  },
+  {
+    "id": 39,
+    "CartoonName": "Simba",
+    "MainCharacter": ["Simba"],
+    "Creator": "Irene Mecchi, Jonathan Roberts and Linda Woolverton",
+    "Status": "Completed"
+  },
+  {
+    "id": 40,
+    "CartoonName": "Popeye- The Sailor Man",
+    "MainCharacter": ["Popeye"],
+    "Creator": "E. C. Segar",
+    "Status": "ongoing"
+  },
+  {
+    "id": 41,
+    "CartoonName": "hero",
+    "MainCharacter": ["hero"],
+    "Creator": "Chris Williams",
+    "Status": "Completed"
+  },
 
-    
-{
-        "id": 70,
-        "CartoonName": "Detective Conan",
-        "MainCharacter": ["Shinichi Kudo","Ran Mouri","Kogoro Mouri"],
-        "Creator": "Gosho Aoyama",
-        "Status": "Ongoing"
-},
+  {
+    "id": 42,
+    "CartoonName": "Invincible",
+    "MainCharacter": ["Mark Grayson"],
+    "Creator": " Robert Kirkman, Cory Walker, and Ryan Ottley",
+    "Status": "completed"
+  },
+  {
+    "id": 43,
+    "CartoonName": "Jackie Chan",
+    "MainCharacter": "Jackie",
+    "Creator": "Jean-Yves msrcel raimbbaud",
+    "Status": "Married"
+  },
+  {
+    "id": 44,
+    "CartoonName": "Teenage Mutant Ninja Turtles",
+    "MainCharacter": ["Krang", "Donatello", "Super Shredder", "Michelangelo"],
+    "Creator": ["Ciro Nieli", "Joshua Sternin"],
+    "Status": "Completed"
+  },
+  {
+    "id": 45,
+    "CartoonName": "Hagemaru",
+    "MainCharacter": ["Hagemaru"],
+    "Creator": "Shinbo Naruma",
+    "Status": "Completed"
+  },
+  {
+    "id": 46,
+    "CartoonName": "Selfie with bajrangi",
+    "MainCharacter": ["Ankush,Bajrangi"],
+    "Creator": "Dheeraj Berry",
+    "Status": "Completed"
+  },
+  {
+    "id": 47,
+    "CartoonName": "Johnny Bravo",
+    "MainCharacter": ["Johnny Bravo"],
+    "Creator": "Van Partible",
+    "Status": "Completed"
+  },
+  {
+    "id": 48,
+    "CartoonName": "Peppa Pig",
+    "MainCharacter": ["Peppa Pig"],
+    "Creator": ["Neville Astley", "Mark Baker"],
+    "Status": "Ongoing"
+  },
+  {
+    "id": 49,
+    "CartoonName": "Tsugumomo",
+    "MainCharacter": ["Kazuya"],
+    "Creator": ["Sara Winderheft", "Fallecia Angelle"],
+    "Status": "Ongoing"
+  },
+  {
+    "id": 50,
+    "CartoonName": "Oraa Guzura Dado",
+    "MainCharacter": ["Guzaara"],
+    "Creator": "Hiroshi Sasagawa",
+    "Status": "completed"
+  },
 
-{
-          "id": 71,
-          "CartoonName":"Dragon Ball Z",
-          "MainCharacter":["Goku","Vegeta","Gohan","Trunks"],
-          "Creator":"Akira Toriyama",
-          "Status":"completed"
-},
+  {
+    "id": 51,
+    "CartoonName": "Timon and Pumbaa",
+    "MainCharacter": ["Timon", "Pumbaa", "Simba"],
+    "Creator": "Meredith Roberts",
+    "Status": "completed"
+  },
 
+  {
+    "id": 52,
+    "CartoonName": "Naruto",
+    "MainCharacter": ["Naruto", "Sasuke", "Hinata"],
+    "Creator": "Masashi Kishimoto",
+    "Status": "completed"
+  },
 
+  {
+    "id": 53,
+    "CartoonName": "Powerpuff Girls",
+    "MainCharacter": ["Buttercup", "Blossom", "Bubbles"],
+    "Creator": "Craig McCracken",
+    "Status": "completed"
+  },
 
+  {
+    "id": 54,
+    "CartoonName": "Scooby-Doo, Where Are You",
+    "MainCharacter": ["Scooby", "Shaggy", "Velma"],
+    "Creator": "Joe Ruby",
+    "Status": "completed"
+  },
 
-    {
-        "id": 72,
-        "CartoonName": "Beyblade",
-        "MainCharacter": ["The Bladebreakers"],
-        "Creator": "Toshifumi Kawase",
-        "Status": "Completed"
-},
+  {
+    "id": 55,
 
- {
-        "id": 73,
-        "CartoonName": "Bob The Builder",
-        "MainCharacter": ["Scoop"],
-        "Creator": "Keith Chapman",
-        "Status": "completed"
+    "CartoonName": "Timon and Pumbaa",
+    "MainCharacter": ["Timon", "Pumbaa", "Simba"],
+    "Creator": "Meredith Roberts",
+    "Status": "completed"
+  },
 
-},
-   {
-      "id":74,
-      "CartoonName":"Avatar:The Legend of Korra",
-      "MainCharacter":"Korra",
-      "Creator":"Joaquim Dos Santos",
-      "Status":"completed"
-      
- },
-    {
-        "id": 75,
-        "CartoonName": "sofia the first",
-        "MainCharacter": ["sofia the princess"],
-        "Creator": "Craig Gerber",
-        "Status": "Ongoing"
-},
+  {
+    "id": 56,
+    "CartoonName": "Richie Rich",
+    "MainCharacter": ["Richie"],
+    "Creator": "Donald Petrie",
+    "Status": "Completed"
+  },
 
-     {
-        "id": 76,
-        "CartoonName": "zig and sharko",
-        "MainCharacter": ["zig, sharko"],
-        "Creator": "Olivier Jean-Marie",
-        "Status": "Ongoing"
-},
-    {
-        "id": 77,
-        "CartoonName": "The Adventures of Tintin",
-        "MainCharacter": ["Tintin"],
-        "Creator": "Hergé",
-        "Status": "Completed"
-},
-    { 
-        "id": 78,
-        "CartoonName": "Chacha Bhatija",
-        "MainCharacter": ["Swapnil Kumari","Anil Datt"],
-        "Creator": "Diamond Comics",
-        "Status": "Ongoing"
- },
-     {
-        "id": 79,
-        "CartoonName": "Courage The Cowardly Dog",
-        "MainCharacter": "Muriel Bagge,Eustace Bagge",
-        "Creator": "John Dilworth",
-        "Status": "completed"
- },
-     {
-        "id": 80,
-        "CartoonName": "Happy Tree Friends",
-        "MainCharacter": ["Flaky", "Nutty", "Giggles", "Cuddles", "Petunia", "Lumpy", "Toothy", "Sniffles", "Russell", "Pop"],
-        "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
-        "Status": "Completed"
- },
-    {
+  {
+    "id": 57,
+    "CartoonName": "assassination classroom",
+    "MainCharacter": ["koro sensei"],
+    "Creator": "Yusei Matsui",
+    "Status": "completed"
+  },
+  {
+    "id": 68,
+    "CartoonName": "American Dragon: Jake Long",
+    "MainCharacter": ["Jake Long"],
+    "Creator": "Jeff Goode",
+    "Status": "completed"
+  },
+  {
+    "id": 69,
+    "CartoonName": "Power Rangers S.P.D",
+    "MainCharacter": [
+      "S.P.D. Red Ranger",
+      "S.P.D. Blue Ranger",
+      "S.P.D. Green Ranger",
+      "S.P.D. Yellow Ranger",
+      "S.P.D. Pink Ranger"
+    ],
+    "Creator": [
+      "Greg Aronowitz",
+      "Andrew Merrifield",
+      "Charlie Haskell",
+      "Mark Beesley",
+      "Britta Johnstone",
+      "Paul Grinder",
+      "John Laing"
+    ],
+    "Status": "Completed"
+  },
 
-        "id": 82,
-        "CartoonName": "Scooby-Doo, Where Are You!",
-        "MainCharacter": ["Scooby-Doo","Shaggy Rogers", "Fred Jones", "Velma Dinkley", "Daphne Blake"],
-        "Creator": ["Joseph Barbera", "William Hanna"],
-        "Status": "Completed"
- },
-{
-        "id": 81,
+  {
+    "id": 70,
+    "CartoonName": "Detective Conan",
+    "MainCharacter": ["Shinichi Kudo", "Ran Mouri", "Kogoro Mouri"],
+    "Creator": "Gosho Aoyama",
+    "Status": "Ongoing"
+  },
 
-        "CartoonName": "bugs Bunny",
+  {
+    "id": 71,
+    "CartoonName": "Dragon Ball Z",
+    "MainCharacter": ["Goku", "Vegeta", "Gohan", "Trunks"],
+    "Creator": "Akira Toriyama",
+    "Status": "completed"
+  },
 
-        "MainCharacter": [
+  {
+    "id": 72,
+    "CartoonName": "Beyblade",
+    "MainCharacter": ["The Bladebreakers"],
+    "Creator": "Toshifumi Kawase",
+    "Status": "Completed"
+  },
 
-            "bunny,bugs,granny,daffy duck"
+  {
+    "id": 73,
+    "CartoonName": "Bob The Builder",
+    "MainCharacter": ["Scoop"],
+    "Creator": "Keith Chapman",
+    "Status": "completed"
+  },
+  {
+    "id": 74,
+    "CartoonName": "Avatar:The Legend of Korra",
+    "MainCharacter": "Korra",
+    "Creator": "Joaquim Dos Santos",
+    "Status": "completed"
+  },
+  {
+    "id": 75,
+    "CartoonName": "sofia the first",
+    "MainCharacter": ["sofia the princess"],
+    "Creator": "Craig Gerber",
+    "Status": "Ongoing"
+  },
 
-        ],
+  {
+    "id": 76,
+    "CartoonName": "zig and sharko",
+    "MainCharacter": ["zig, sharko"],
+    "Creator": "Olivier Jean-Marie",
+    "Status": "Ongoing"
+  },
+  {
+    "id": 77,
+    "CartoonName": "The Adventures of Tintin",
+    "MainCharacter": ["Tintin"],
+    "Creator": "Hergé",
+    "Status": "Completed"
+  },
+  {
+    "id": 78,
+    "CartoonName": "Chacha Bhatija",
+    "MainCharacter": ["Swapnil Kumari", "Anil Datt"],
+    "Creator": "Diamond Comics",
+    "Status": "Ongoing"
+  },
+  {
+    "id": 79,
+    "CartoonName": "Courage The Cowardly Dog",
+    "MainCharacter": "Muriel Bagge,Eustace Bagge",
+    "Creator": "John Dilworth",
+    "Status": "completed"
+  },
+  {
+    "id": 80,
+    "CartoonName": "Happy Tree Friends",
+    "MainCharacter": [
+      "Flaky",
+      "Nutty",
+      "Giggles",
+      "Cuddles",
+      "Petunia",
+      "Lumpy",
+      "Toothy",
+      "Sniffles",
+      "Russell",
+      "Pop"
+    ],
+    "Creator": ["Aubrey Ankrum", "Kenn Navarro", "Rhode Montijo"],
+    "Status": "Completed"
+  },
+  {
+    "id": 82,
+    "CartoonName": "Scooby-Doo, Where Are You!",
+    "MainCharacter": [
+      "Scooby-Doo",
+      "Shaggy Rogers",
+      "Fred Jones",
+      "Velma Dinkley",
+      "Daphne Blake"
+    ],
+    "Creator": ["Joseph Barbera", "William Hanna"],
+    "Status": "Completed"
+  },
+  {
+    "id": 81,
 
-        "Creator": "chuck jones",
+    "CartoonName": "bugs Bunny",
 
-        "Status": "ongoing"
-        },
-        {
-        "id": 81,
-        "CartoonName": "The Powerpuff Girls",
-        "MainCharacter": ["Buttercup", "Bubbles", "Mojo Jojo", "Blossom", "Miss Sara Bellum", "Professor Utonium"],
-        "Creator": ["Craig McCracken"],
-        "Status":"Completed"
-     },
-    {
-        "id":82,
-        "CartoonName": "Johnny Bravo",
-        "MainCharacter": ["Johnny Bravo"],
-        "Creator": ["Van Partible"],
-        "Status": "Completed"
- },
-    {
-        "id": 81,
-        "CartoonName": "Shiva",
-        "MainCharacter": [
-            "Shiva"
-        ],
-        "Creator": "Viacom 18,Cosmos Maya",
-        "Status": "ongoing"
+    "MainCharacter": ["bunny,bugs,granny,daffy duck"],
 
-    },
-    {
-        "id":83,
-        "CartoonName": "Kiteretsu",
-        "MainCharacter": ["Kiteretsu"],
-        "Creator": ["Fujiko F. Fujio"],
-        "Status": "Completed"
+    "Creator": "chuck jones",
 
- },
-   {
-        "id":85,
-        "CartoonName": "Naruto",
-        "MainCharacter": ["Naruto Uzumaki","Sasuke","Sakura","Kakashi Sensei"],
-        "Creator": ["Masashi Kishimoto"],
-        "Status": "Completed"
- 
+    "Status": "ongoing"
+  },
+  {
+    "id": 81,
+    "CartoonName": "The Powerpuff Girls",
+    "MainCharacter": [
+      "Buttercup",
+      "Bubbles",
+      "Mojo Jojo",
+      "Blossom",
+      "Miss Sara Bellum",
+      "Professor Utonium"
+    ],
+    "Creator": ["Craig McCracken"],
+    "Status": "Completed"
+  },
+  {
+    "id": 82,
+    "CartoonName": "Johnny Bravo",
+    "MainCharacter": ["Johnny Bravo"],
+    "Creator": ["Van Partible"],
+    "Status": "Completed"
+  },
+  {
+    "id": 81,
+    "CartoonName": "Shiva",
+    "MainCharacter": ["Shiva"],
+    "Creator": "Viacom 18,Cosmos Maya",
+    "Status": "ongoing"
+  },
+  {
+    "id": 83,
+    "CartoonName": "Kiteretsu",
+    "MainCharacter": ["Kiteretsu"],
+    "Creator": ["Fujiko F. Fujio"],
+    "Status": "Completed"
+  },
+  {
+    "id": 85,
+    "CartoonName": "Naruto",
+    "MainCharacter": ["Naruto Uzumaki", "Sasuke", "Sakura", "Kakashi Sensei"],
+    "Creator": ["Masashi Kishimoto"],
+    "Status": "Completed"
+  },
+  {
+    "id": 84,
+    "CartoonName": "Future Diary",
+    "MainCharacter": ["Yuno Gasai", "Yukiteru Amano", "Aru Akise"],
+    "Creator": "Sakae Esuno",
+    "Status": "Completed"
+  },
 
- },
-    {
-        "id": 84,
-        "CartoonName": "Future Diary",
-        "MainCharacter": [
-            "Yuno Gasai","Yukiteru Amano","Aru Akise"
-        ],
-        "Creator": "Sakae Esuno",
-        "Status": "Completed"
-    },
-
-
- },
- {
-    "id":85,
+  {
+    "id": 85,
     "CartoonName": "KiD vs KaT",
     "MainCharacter": ["Cooop"],
     "Creator": ["Rob Boutilier"],
     "Status": "Completed"
-
-    },
-     {
-        "id": 90,
-        "CartoonName": "Popeye the Sailor",
-        "MainCharacter": ["Popeye","Brutus"],
-        "Creator": "Jack Kinney",
-        "Status": "completed"
-    },
-{
-        "id": 91,
-        "CartoonName": "Rick and Morty",
-        "MainCharacter": ["Rick","Morty"],
-        "Creator": "Justin Roiland and Dan Harmon",
-        "Status": "Ongoing"
-        "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"  
-    },
-    {
-        "id": 92,
-        "CartoonName": "obocchama",
-        "MainCharacter": ["obocchama"],
-        "Creator": "Kobayashi Yoshinori",
-        "Status": "Completed"
-        "Where to watch": "https://www.dailymotion.com/playlist/x7jfnh  or telegram"  
-    },
-
+  },
+  {
+    "id": 90,
+    "CartoonName": "Popeye the Sailor",
+    "MainCharacter": ["Popeye", "Brutus"],
+    "Creator": "Jack Kinney",
+    "Status": "completed"
+  },
+  {
+    "id": 91,
+    "CartoonName": "Rick and Morty",
+    "MainCharacter": ["Rick", "Morty"],
+    "Creator": "Justin Roiland and Dan Harmon",
+    "Status": "Ongoing"
+    "Where to watch": "https://www.adultswim.com/videos/rick-and-morty  or telegram"
+  },
+  {
+    "id": 92,
+    "CartoonName": "obocchama",
+    "MainCharacter": ["obocchama"],
+    "Creator": "Kobayashi Yoshinori",
+    "Status": "Completed"
+    "Where to watch": "https://www.dailymotion.com/playlist/x7jfnh  or telegram"
+  },
+  {
+    "id": 93,
+    "CartoonName": "Ninja Hattori",
+    "MainCharacter": [
+      "Ninja Hattori",
+      "Shinzo Hattori",
+      "Shishimaru",
+      "Kenichi Mitsuba",
+      "Yumeko Kawai",
+      "Kemumaki Kemuzou",
+      "Kagechiyo"
+    ],
+    "Creator": "Fujiko Fujio duo",
+    "Status": "Completed"
+  }
 ]
